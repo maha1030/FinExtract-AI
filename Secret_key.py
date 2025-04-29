@@ -1,0 +1,1 @@
+openai_key = 'insert your api-key'
